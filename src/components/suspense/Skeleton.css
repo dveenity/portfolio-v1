@@ -1,0 +1,17 @@
+.suspense-in {
+  height: 100vh;
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.error {
+  height: 100vh;
+  background-color: black;
+  color: white;
+  font-size: 5vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
